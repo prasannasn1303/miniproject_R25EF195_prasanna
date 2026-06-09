@@ -1,0 +1,22 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+a.out
+
+# Build directories
+/bin/
+/build/
+
+# Editor directories
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Backup files
+*~
